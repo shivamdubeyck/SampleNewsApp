@@ -15,7 +15,6 @@ https://api.npoint.io/446ca19879714134da9a
 - Navigation Arch Components
 - Retrofit
 - Coil for Image Loading
-- Truth, Mockito for Unit Testing
 
 ### Communication between layers
 
@@ -26,13 +25,6 @@ https://api.npoint.io/446ca19879714134da9a
   from remote if internet is present.
 - If internet is not present or data is not cached user is show a retry screen to Retry.
 - Information flows back to the UI where we display the results in RecyclerView.
-
-### Testing strategy :
-
-1. Write unit tests for ViewModel.
-2. Write unit tests for UseCases.
-3. Write unit tests for Repository.
-4. Write unit tests for DataSources.
 
 ### Things that can be improved :
 
