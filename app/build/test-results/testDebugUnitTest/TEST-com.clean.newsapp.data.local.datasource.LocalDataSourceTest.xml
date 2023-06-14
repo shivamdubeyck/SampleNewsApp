@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.clean.newsapp.data.local.datasource.LocalDataSourceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-06-14T14:14:33" hostname="LIN80022458" time="3.086">
+  <properties/>
+  <testcase name="test local data source returns true if news feed is cached" classname="com.clean.newsapp.data.local.datasource.LocalDataSourceTest" time="2.891"/>
+  <testcase name="test fetch news item by id from local success scenario" classname="com.clean.newsapp.data.local.datasource.LocalDataSourceTest" time="0.173"/>
+  <testcase name="test save news item locally" classname="com.clean.newsapp.data.local.datasource.LocalDataSourceTest" time="0.005"/>
+  <testcase name="test fetch news feed from local success scenario" classname="com.clean.newsapp.data.local.datasource.LocalDataSourceTest" time="0.016"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.clean.newsapp.domain.usecase.impl.GetNewsFeedUseCaseImplTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-06-14T14:14:37" hostname="LIN80022458" time="0.479">
+  <properties/>
+  <testcase name="test fetch news feed returns error if internet is available but http error occurred" classname="com.clean.newsapp.domain.usecase.impl.GetNewsFeedUseCaseImplTest" time="0.46"/>
+  <testcase name="test fetch news feed remote if internet is available" classname="com.clean.newsapp.domain.usecase.impl.GetNewsFeedUseCaseImplTest" time="0.01"/>
+  <testcase name="test fetch news feed locally if no internet and cached data is present" classname="com.clean.newsapp.domain.usecase.impl.GetNewsFeedUseCaseImplTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

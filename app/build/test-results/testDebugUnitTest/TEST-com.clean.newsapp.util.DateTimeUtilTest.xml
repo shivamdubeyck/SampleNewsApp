@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.clean.newsapp.util.DateTimeUtilTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-06-14T14:14:37" hostname="LIN80022458" time="0.03">
+  <properties/>
+  <testcase name="uiTimeFormat returns correct ui formatted time" classname="com.clean.newsapp.util.DateTimeUtilTest" time="0.028"/>
+  <testcase name="uiTimeFormat returns published time without change if parse exception occurs ui formatted time" classname="com.clean.newsapp.util.DateTimeUtilTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
